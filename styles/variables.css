@@ -65,10 +65,6 @@
     grid-row-start: 3;
   }
 
-  .cover__description-text-dark {
-    max-width: 317px;
-  }
-
   .main {
     padding: 58px 20px;
   }
@@ -358,14 +354,6 @@
     grid-column-start: 1;
     grid-column-end: span 2;
     grid-row-start: 4;
-  }
-
-  .decor {
-    padding-left: 7px;
-  }
-
-  .cover__description-text-dark {
-    max-width: 355px;
   }
 
   .main {
