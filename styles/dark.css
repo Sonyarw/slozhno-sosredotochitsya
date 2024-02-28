@@ -5,7 +5,7 @@
 */
 
 .page.theme_dark {
-  --main-font: IBM Plex Mono;
+  --main-font: "IBM Plex Mono";
   --bg-color: #ff0070;
   --titel-color: #000028;
   --text-color: #f1b2ce;
@@ -13,16 +13,8 @@
   --bakground: #000028;
   --decoration-display: visible;
   --title: #db00ff;
-}
-
-:root.theme-dark {
-  --main-font: IBM Plex Mono;
-  --bg-color: #ff0070;
-  --titel-color: #000028;
-  --text-color: #f1b2ce;
-  --header-bg-img: url("../images/cover-image-dark.png");
-  --bakground: #000028;
-  --decoration-display: visible;
-  --title: #db00ff; /* Дублируем переменные для тёмной темы */
+  --button-hover: rgba(255, 0, 112, 0.4);
+  --decor: #FF0070;
+    --menu-text: #FF0070;
 }
 
