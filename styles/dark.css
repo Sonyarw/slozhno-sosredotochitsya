@@ -14,7 +14,6 @@
   --decoration-display: visible;
   --title: #db00ff;
   --button-hover: rgba(255, 0, 112, 0.4);
-  --decor: #FF0070;
-    --menu-text: #FF0070;
+  --decor: #ff0070;
+  --menu-text: #ff0070;
 }
-

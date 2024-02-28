@@ -15,7 +15,7 @@
   --title: #ffc2e6;
   --button-hover: rgba(50, 49, 45, 0.4);
   --decor: #353430;
-    --menu-text: #353430;
+  --menu-text: #353430;
 }
 
 /* Остальные стили */
@@ -32,7 +32,6 @@
     --title: #ffc2e6;
     --button-hover: rgba(50, 49, 45, 0.4);
     --decor: #353430;
-        --menu-text: #353430;
+    --menu-text: #353430;
   }
 }
-
